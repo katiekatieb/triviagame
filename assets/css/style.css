@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+  background-image: url("../images/chalkboard.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-color: black;
+  font-family:  'Pangolin', cursive;
+  color: white;
+}
+
+input[type=radio] {
+  margin: 20px 5px 20px 20px;
+}
+
+button{
+  display: block !important;
+  margin: 0 auto;
+  color: white !important;
+  border-color: white !important;
+}
+
+button:hover{
+  background-color: none !important;
+}
+
+h1{
+  font-size: 60px;
+  margin-top: 50px;
+}
+
+#time{
+  color: #3CB371;
+}
