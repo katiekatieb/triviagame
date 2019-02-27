@@ -7,7 +7,7 @@
 
 ## Technology
 * HTML, CSS, Javascript, jQuery
-* Live demo: https://katiekatieb.github.io/unit-4-game/
+* Live demo: https://katiekatieb.github.io/triviagame/
 
 ## About
 * You have 60 seconds to answer as many of the trivia questions as you can.
